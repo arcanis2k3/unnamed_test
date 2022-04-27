@@ -1,12 +1,12 @@
 # unnamed_test
 
 /* needs to be done: 
-Integration for Warriors greater than 12
-Checking if the luna rush page is already completly loaded.
-Automatic Login into MetaMask
-Checking if logged in or kicked out of the game
-Checking if it is on the right page
-and a lot more
+Integration for Warriors greater than 12||
+Checking if the luna rush page is already completly loaded.||
+Automatic Login into MetaMask||
+Checking if logged in or kicked out of the game||
+Checking if it is on the right page||
+and a lot ||
 
 
 
